@@ -17,7 +17,10 @@ Floors: 3
 If you have the building dimensions, use option (d).
 
 ```
+
 # pi @ pi4 in ~/Documents/Building-Math on git:master o [14:00:55] 
+
+```
 $ ./size.py
 Building Size Calculator
 shell (s) or dimensions (d): d
